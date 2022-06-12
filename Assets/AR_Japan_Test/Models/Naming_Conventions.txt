@@ -1,0 +1,10 @@
+Prefixes & Suffixes
+
+M_    Model
+T_	Texture
+M_	Material
+A_	Animation (clip) / Animation Sequence
+
+Example
+
+M_Hero
